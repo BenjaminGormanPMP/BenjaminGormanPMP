@@ -8,7 +8,7 @@ I abstract operational complexity so elite engineering teams can build at scale.
 **1. Vaulta (EOS) Layer-1 Hard Fork (Savanna Instant Finality)**
 Directed the Savanna Consensus (Spring) reducing latency by 100x (3 mins to 1 sec) and Leap 5.0 upgrade for parallelization across 128 threads.
 * 📦 **TPM Orchestration:** [AntelopeIO/spring v1.0.0-rc3](https://github.com/AntelopeIO/spring/releases/tag/v1.0.0-rc3) | [v1.0.0-rc1](https://github.com/AntelopeIO/spring/releases/tag/v1.0.0-rc1)
-* 🛠️ **Core Protocol Management:** [AntelopeIO/spring repository](https://github.com/AntelopeIO/spring) | [AntelopeIO/leap repository]
+* 🛠️ **Core Protocol Management:** [AntelopeIO/spring repository](https://github.com/AntelopeIO/spring) | [AntelopeIO/spring repository](https://github.com/AntelopeIO/leap)
 
 **2. Leap 5.0 & Critical Security Patching**
 Led the Agile team to optimize decentralized systems, reducing state database memory consumption by 20%. Managed zero-day critical security patches across the global node operator fleet.
