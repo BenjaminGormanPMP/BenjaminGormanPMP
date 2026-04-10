@@ -13,8 +13,8 @@ I am a data-driven systems thinker who abstracts operational complexity so elite
 ### 📊 High-Scale Execution (The WMDs)
 
 * **Vaulta Network:** Directed a $1B market cap distributed network modernization, partnering with engineers to execute a Layer-1 protocol cutover that unlocked 20,000 TPS and reduced latency from 3 minutes to 1 second. 
-* **NTT DATA (AI Infra):** Built and scaled the 0→1 ML inference infrastructure for Conversational AI and RPA, capturing an $18M ROI pipeline. 
-* **NTT DATA (Cloud/K8s):** Architected the fleet-wide modernization of enterprise platform services, deploying Pivotal Kubernetes Service (PKS) to enable highly scalable, on-demand cluster provisioning.
+* **NTT DATA Services (AI Infra):** Built and scaled the 0→1 ML inference infrastructure for Conversational AI and RPA, capturing an $18M ROI pipeline. 
+* **NTT DATA Services (Cloud/K8s):** Architected the fleet-wide modernization of enterprise platform services, deploying Pivotal Kubernetes Service (PKS) to enable highly scalable, on-demand cluster provisioning.
 
 ---
 
